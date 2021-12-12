@@ -1,0 +1,3 @@
+# Ignore files that do not need to be saved
+.ipynb_checkpoints
+ipynb_checkpoints
